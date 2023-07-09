@@ -1,0 +1,15 @@
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\bin\Debug\net6.0\DelagateAndEvents.exe
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\bin\Debug\net6.0\DelagateAndEvents.deps.json
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\bin\Debug\net6.0\DelagateAndEvents.runtimeconfig.json
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\bin\Debug\net6.0\DelagateAndEvents.dll
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\bin\Debug\net6.0\DelagateAndEvents.pdb
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.csproj.AssemblyReference.cache
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.AssemblyInfoInputs.cache
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.AssemblyInfo.cs
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.csproj.CoreCompileInputs.cache
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.dll
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\refint\DelagateAndEvents.dll
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.pdb
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\DelagateAndEvents.genruntimeconfig.cache
+D:\ProjectC#\DelagateAndEvents\DelagateAndEvents\obj\Debug\net6.0\ref\DelagateAndEvents.dll

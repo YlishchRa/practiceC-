@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFraction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fraction>
+    <Numerator>1</Numerator>
+    <Denominator>4</Denominator>
+  </Fraction>
+  <Fraction>
+    <Numerator>5</Numerator>
+    <Denominator>1</Denominator>
+  </Fraction>
+  <Fraction>
+    <Numerator>4</Numerator>
+    <Denominator>1</Denominator>
+  </Fraction>
+  <Fraction>
+    <Numerator>-10</Numerator>
+    <Denominator>10</Denominator>
+  </Fraction>
+  <Fraction>
+    <Numerator>2</Numerator>
+    <Denominator>2</Denominator>
+  </Fraction>
+  <Fraction>
+    <Numerator>3</Numerator>
+    <Denominator>3</Denominator>
+  </Fraction>
+</ArrayOfFraction>
